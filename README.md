@@ -1,18 +1,22 @@
-# elixir-otp
+# Elixir OTP
 
-## Usage and goal
+## Goal
 
-TODO: explain usage
+In this course we'll cover the OTP aspects of Elixir. We assume that you've completed the [elixir-basics](https://github.com/WannesFransen1994/elixir-basics) course. The topics are listed under [Topics](#topics), which will be a short summary of what is covered in this repository.
 
-## Summary
+## Usage
 
-TODO: list the topics
+For this course we'll mostly still use the script method to complete the exercises. Later on, we'll move on to mix projects.
 
-- [ ] Complete this list
+## Topics
+
+- [X] Processes
+- [X] Links, monitors
+- [X] Tasks
+- [X] GenServer
+- [X] Supervisor
 
 ## Roadmap / missing topics
-
-TODO: Short paragraph to explain how people can add a topic.
 
 - [ ] Mix projects
 - [ ] Observer
@@ -27,4 +31,4 @@ Extra thanks to every contributor, student and the Elixir community.
 
 ## Note
 
-This project is part of the [elixir learning materials](https://github.com/WannesFransen1994/elixir-learning-materials) repository.
+This project is part of the [elixir learning materials](https://github.com/WannesFransen1994/elixir-learning-materials) repository. The same license, code of conduct and contributing guidelines are applicable!
