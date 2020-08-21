@@ -32,3 +32,13 @@ Extra thanks to every contributor, student and the Elixir community.
 ## Note
 
 This project is part of the [elixir learning materials](https://github.com/WannesFransen1994/elixir-learning-materials) repository. The same license, code of conduct and contributing guidelines are applicable!
+
+```txt
+Elixir learning materials, submodule Elixir OTP (c) by Wannes Fransen
+
+Elixir learning materials, submodule Elixir OTP is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+You should have received a copy of the license along with this
+work.  If not, see https://creativecommons.org/licenses/by-nc-sa/4.0/ .
+```
